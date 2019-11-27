@@ -9,4 +9,4 @@
 
 ### Result
 
-<img width="496" alt="result" src="https://user-images.githubusercontent.com/22610398/69719263-c9c15780-1118-11ea-94dd-1ab839ccc2b8.png">
+<img width="1000" alt="result" src="https://user-images.githubusercontent.com/22610398/69719263-c9c15780-1118-11ea-94dd-1ab839ccc2b8.png">
